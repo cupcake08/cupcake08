@@ -1,4 +1,4 @@
-## </> **I Create Cool Stuff** </>
+## </> *I Create Cool Stuff* </>
 
 <p align="center">
   <a href="https://github.com/cupcake08?tab=followers">
