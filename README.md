@@ -1,5 +1,4 @@
 ### Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Ankit Bhankharia</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.cupcake08}.${your.cupcake08.id}) -->
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ankit-bhankharia)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/18plusguy)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/firkey)
@@ -13,7 +12,7 @@ As a student , I enjoy using my obsessive attention to detail, my unequivocal lo
 <!-- ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=cupcake08.cupcake08) -->
 
 **Talking about Personal Stuffs:**
-- 🚀 I’m currently learning Data Structures and Algorithms
+- 🚀 I’m currently learning Data Structures and Algorithms and Web3 development.
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: bhankhariaa@protonmail.com
 
