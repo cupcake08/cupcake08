@@ -4,7 +4,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/firkey)
 ### Glad to see you here!
 
-I'm a 1st year Student BCA student. I love programming , writing and traveling.
+I'm a 1st year BCA student. I love programming , writing and traveling.
 
 As a student , I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
