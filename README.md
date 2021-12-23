@@ -12,7 +12,7 @@ As a student , I enjoy using my obsessive attention to detail, my unequivocal lo
 <!-- ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=cupcake08.cupcake08) -->
 
 **Talking about Personal Stuffs:**
-- 🚀 I’m currently learning Data Structures and Algorithms and Web3 development.
+- 🚀 I’m currently learning Data Structures and Algorithms and Data Science.
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: bhankhariaa@protonmail.com
 
