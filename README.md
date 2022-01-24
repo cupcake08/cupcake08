@@ -4,7 +4,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/firkey)
 ### Glad to see you here!
 
-I'm a 1st year BCA student. I love programming , writing and traveling.
+I'm a 3rd Sem BCA student. I love programming , writing and traveling.
 
 As a student , I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
@@ -12,7 +12,7 @@ As a student , I enjoy using my obsessive attention to detail, my unequivocal lo
 <!-- ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=cupcake08.cupcake08) -->
 
 **Talking about Personal Stuffs:**
-- 🚀 I’m currently learning Data Structures and Algorithms and Data Science.
+- 🚀 I’m currently learning Data Science.
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: bhankhariaa@protonmail.com
 
