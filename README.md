@@ -5,12 +5,12 @@
 
 ### Glad to see you here!
 
-**Talking about Personal Stuffs:**
-- 🚀 *I code, play basketball, click photos and go to gym.* !
-- 📫 How to reach me: [![Email](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat-square&logo=protonmail&logoColor=white&)](bhankhariaa@protonmail.com)
+🚀 **I code, play basketball, click photos and go to gym.**
+
 
 As a student , I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
+📫 How to reach me : bhankhariaa@protonmail.com
 </br>
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cupcake08&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&&theme=tokyonight"/>
