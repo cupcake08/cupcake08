@@ -7,10 +7,11 @@
 
 🚀 **I code, play basketball, click photos and go to gym.**
 
+<img height="180em" width = "100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cupcake08&&theme=vue">
 
 As a student , I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-<img height="180em" width = "100%" src="https://github-readme-streak-stats.herokuapp.com/?user=cupcake08&&theme=tokyonight">
+<img height="180em" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=cupcake08&&theme=tokyonight">
 
 📫 How to reach me : bhankhariaa@protonmail.com
 </br>
